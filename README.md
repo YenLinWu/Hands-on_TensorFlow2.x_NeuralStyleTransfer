@@ -13,4 +13,4 @@
 * Neural Style Transfer Tutorials [https://www.tensorflow.org/tutorials/generative/style_transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
 
 #### 作者
-<span> - Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
+<span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
